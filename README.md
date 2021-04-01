@@ -1,0 +1,2 @@
+# SoftuniPythonFundamentals
+Softuni Fundamentals course
